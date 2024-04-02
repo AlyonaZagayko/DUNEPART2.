@@ -1,0 +1,23 @@
+h1 {
+ 
+ background-color:#DBC67B;
+}
+
+body{
+    color: #BEA651;
+    background-color: #FFEDAB;
+    text-align: center;
+}
+
+table{
+    border:3px solid #EBD99A;
+}
+
+td{
+     border:3px solid #EBD99A;
+}
+
+img{
+    width: 70px;
+    height:90px ;
+}
