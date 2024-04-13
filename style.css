@@ -3,10 +3,10 @@ h1 {
  background-color:#deca7f;
 }
 .gallery{
-    width:190px;
+    /*width:190px;
     height: 199px;
     display: flex;
-    justify-content:left;
+    justify-content: left;*/
 }
 h2 {
     font-size:30px;
@@ -63,25 +63,21 @@ div{
 }
 
 .imgk{
-    width:200px;
-    height: 250px;
-    justify-content:left;
+    width:auto;
+    height: 230px;
 }
 
 .imgc{
     width:200px;
     height: 250px;
-    justify-content:left;
 }
 
 .imge{
     width:200px;
     height: 250px;
-    justify-content:left; 
 }
 
 .imga{
     width:200px;
     height: 250px;
-    justify-content:left;
 }
